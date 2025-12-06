@@ -25,3 +25,20 @@
   "license": "ISC",
   "description": ""
 }
+
+{
+  "name": "test-automation-dashboard",
+  "version": "1.0.0",
+  "description": "A modern React test automation dashboard for visualizing multi-suite test runs.",
+  "author": "Chase Dustin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copperdruid/TestScope.git"
+  },
+  "bugs": {
+    "url": "https://github.com/copperdruid/TestScope/issues"
+  },
+  "homepage": "https://github.com/copperdruid/TestScope#readme"
+}
+
