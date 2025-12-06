@@ -4,6 +4,7 @@ A modern **React + Vite** dashboard for visualizing multi-suite automated tests:
 unit, integration, E2E, performance, and coverage – all in one clean UI.
 
 ---
+<img width="959" height="891" alt="Screenshot from 2025-12-06 12-32-30" src="https://github.com/user-attachments/assets/90ca5ced-5c58-45ca-be66-985a3eca2f94" />
 
 ## Features
 
